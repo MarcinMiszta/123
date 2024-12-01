@@ -1,0 +1,17 @@
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\bin\Debug\net6.0-windows\drzewaRozpinajace.exe
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\bin\Debug\net6.0-windows\drzewaRozpinajace.deps.json
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\bin\Debug\net6.0-windows\drzewaRozpinajace.runtimeconfig.json
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\bin\Debug\net6.0-windows\drzewaRozpinajace.dll
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\bin\Debug\net6.0-windows\drzewaRozpinajace.pdb
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.csproj.AssemblyReference.cache
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.Form1.resources
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.csproj.GenerateResource.cache
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.GeneratedMSBuildEditorConfig.editorconfig
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.AssemblyInfoInputs.cache
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.AssemblyInfo.cs
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.csproj.CoreCompileInputs.cache
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.dll
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\refint\drzewaRozpinajace.dll
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.pdb
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\drzewaRozpinajace.genruntimeconfig.cache
+D:\155706\drzewaRozpinajace\drzewaRozpinajace\obj\Debug\net6.0-windows\ref\drzewaRozpinajace.dll
